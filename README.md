@@ -22,7 +22,7 @@
 ## 📊 Results
 [Створено інтерактивну карту з чіткою ієрархією даних. Нижче наведено скриншот фінального макета.]
 
-![Map Result](https://github.com/rudykoleh/qgis-spatial-mapping/blob/main/ukraine_cities_map.png),!{Another map}(https://github.com/rudykoleh/qgis-spatial-mapping/blob/main/ukraine_cities_map_symbols.png)
+![Map Result](https://github.com/rudykoleh/qgis-spatial-mapping/blob/main/ukraine_cities_map_symbols.png)
 
 ## 💡 Key Takeaways
 [Цей проєкт закріпив розуміння систем координат, роботи з шарами та налаштування категорійної символіки для гуманітарного або безпекового аналізу.]
