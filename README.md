@@ -1,4 +1,3 @@
-# qgis-spatial-mapping
 # 🗺️ [Ukraine Security Incidents Mapping / Spatial Analysis of Urban Data]
 
 ## 📌 Project Overview
